@@ -112,6 +112,7 @@ Satellite-Signal-Strength-Classification/
 │   └── logistic_regression.ipynb
 ├── README.md
 ├── app.py
+├── notes.pdf
 └── requiremnts.txt
 ```
 
