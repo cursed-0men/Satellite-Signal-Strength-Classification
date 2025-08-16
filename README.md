@@ -40,7 +40,7 @@ git clone https://github.com/yourusername/satellite-signal-analytics.git
 cd satellite-signal-analytics
 
 # Install dependencies
-pip install streamlit pandas numpy plotly matplotlib seaborn
+pip install -r requirements.txt
 
 # Run application
 streamlit run app.py
